@@ -55,12 +55,6 @@ And that's it! This command will run the `main.js` script, which in turn will ru
 |                                     Day 23                                     |                    |
 |                                     Day 24                                     |                    |
 |                                     Day 25                                     |                    |
-|                                     Day 26                                     |                    |
-|                                     Day 27                                     |                    |
-|                                     Day 28                                     |                    |
-|                                     Day 29                                     |                    |
-|                                     Day 30                                     |                    |
-|                                     Day 31                                     |                    |
 
 ## License
 
