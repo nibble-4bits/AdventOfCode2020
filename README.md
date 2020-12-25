@@ -28,39 +28,39 @@ And that's it! This command will run the `main.js` script, which in turn will ru
 
 ## Status
 
-|                                   Problem                                    |     Is solved      |
-| :--------------------------------------------------------------------------: | :----------------: |
-| [Day 1](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day1) | :heavy_check_mark: |
-| [Day 2](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day2) | :heavy_check_mark: |
-| [Day 3](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day3) | :heavy_check_mark: |
-| [Day 4](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day4) | :heavy_check_mark: |
-| [Day 5](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day5) | :heavy_check_mark: |
-| [Day 6](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day6) | :heavy_check_mark: |
-|                                    Day 7                                     |
-| [Day 8](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day8) | :heavy_check_mark: |
-| [Day 9](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day9) | :heavy_check_mark: |
-|                                    Day 10                                    |                    |
-|                                    Day 11                                    |                    |
-|                                    Day 12                                    |                    |
-|                                    Day 13                                    |                    |
-|                                    Day 14                                    |                    |
-|                                    Day 15                                    |                    |
-|                                    Day 16                                    |                    |
-|                                    Day 17                                    |                    |
-|                                    Day 18                                    |                    |
-|                                    Day 19                                    |                    |
-|                                    Day 20                                    |                    |
-|                                    Day 21                                    |                    |
-|                                    Day 22                                    |                    |
-|                                    Day 23                                    |                    |
-|                                    Day 24                                    |                    |
-|                                    Day 25                                    |                    |
-|                                    Day 26                                    |                    |
-|                                    Day 27                                    |                    |
-|                                    Day 28                                    |                    |
-|                                    Day 29                                    |                    |
-|                                    Day 30                                    |                    |
-|                                    Day 31                                    |                    |
+|                                    Problem                                     |     Is solved      |
+| :----------------------------------------------------------------------------: | :----------------: |
+|  [Day 1](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day1)  | :heavy_check_mark: |
+|  [Day 2](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day2)  | :heavy_check_mark: |
+|  [Day 3](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day3)  | :heavy_check_mark: |
+|  [Day 4](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day4)  | :heavy_check_mark: |
+|  [Day 5](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day5)  | :heavy_check_mark: |
+|  [Day 6](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day6)  | :heavy_check_mark: |
+|                                     Day 7                                      |
+|  [Day 8](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day8)  | :heavy_check_mark: |
+|  [Day 9](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day9)  | :heavy_check_mark: |
+| [Day 10](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day10) | :heavy_check_mark: |
+|                                     Day 11                                     |                    |
+|                                     Day 12                                     |                    |
+|                                     Day 13                                     |                    |
+|                                     Day 14                                     |                    |
+|                                     Day 15                                     |                    |
+|                                     Day 16                                     |                    |
+|                                     Day 17                                     |                    |
+|                                     Day 18                                     |                    |
+|                                     Day 19                                     |                    |
+|                                     Day 20                                     |                    |
+|                                     Day 21                                     |                    |
+|                                     Day 22                                     |                    |
+|                                     Day 23                                     |                    |
+|                                     Day 24                                     |                    |
+|                                     Day 25                                     |                    |
+|                                     Day 26                                     |                    |
+|                                     Day 27                                     |                    |
+|                                     Day 28                                     |                    |
+|                                     Day 29                                     |                    |
+|                                     Day 30                                     |                    |
+|                                     Day 31                                     |                    |
 
 ## License
 
