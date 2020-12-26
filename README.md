@@ -41,7 +41,7 @@ And that's it! This command will run the `main.js` script, which in turn will ru
 |  [Day 9](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day9)  | :heavy_check_mark: |
 | [Day 10](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day10) | :heavy_check_mark: |
 | [Day 11](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day11) | :heavy_check_mark: |
-|                                     Day 12                                     |                    |
+| [Day 12](https://github.com/nibble-4bits/AdventOfCode2020/tree/main/src/day12) | :heavy_check_mark: |
 |                                     Day 13                                     |                    |
 |                                     Day 14                                     |                    |
 |                                     Day 15                                     |                    |

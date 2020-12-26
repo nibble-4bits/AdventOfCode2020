@@ -8,6 +8,7 @@ const [day8Part1, day8Part2] = require('./src/day8');
 const [day9Part1, day9Part2] = require('./src/day9');
 const [day10Part1, day10Part2] = require('./src/day10');
 const [day11Part1, day11Part2] = require('./src/day11');
+const [day12Part1, day12Part2] = require('./src/day12');
 
 console.log('Day 1 answers: ', day1Part1(), day1Part2());
 console.log('Day 2 answers: ', day2Part1(), day2Part2());
@@ -19,3 +20,4 @@ console.log('Day 8 answers: ', day8Part1(), day8Part2());
 console.log('Day 9 answers: ', day9Part1(), day9Part2());
 console.log('Day 10 answers: ', day10Part1(), day10Part2());
 console.log('Day 11 answers: ', day11Part1(), day11Part2());
+console.log('Day 12 answers: ', day12Part1(), day12Part2());
